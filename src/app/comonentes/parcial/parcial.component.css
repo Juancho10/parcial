@@ -1,0 +1,32 @@
+.contenedor{
+  margin: 0 120px;
+  max-width: 1200px;
+}
+.btn-azul{
+  padding: 10px 80px;
+  border: 2px  inset #141c97;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: aliceblue;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin: 25px 0;
+  align-items: center;
+
+}
+.btn-azul:hover{
+  transition: .50s;
+  background-color: #141c97;
+  color: #ffffff;
+}
+.listado{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+}
+.listado__columna{
+  border-bottom: 2px #70728b solid;
+  padding: 20px 0;
+}
+
